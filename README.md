@@ -54,6 +54,13 @@ ORDER BY dia;
 
 ```
 ---
+## 📊 Dashboard no Metabase
+
+Dashboard interativo desenvolvido no Metabase com filtro dinâmico por mês.
+
+![Dashboard de Novos Clientes](images/dashboard_metabase.png)
+
+---
 
 ## 📈 Príncipais Insights
 - Identificação de dias com maior volume de novos clientes
