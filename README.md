@@ -43,7 +43,6 @@ Esse tipo de análise pode ser utilizado para:
 
 ---
 
-
 ## 🧾 Query SQL
 
 ```sql
@@ -55,20 +54,20 @@ FROM People
 GROUP BY dia
 ORDER BY dia;
 
+---
 
 ## 📈 Possíveis Insights
 - Identificação de dias com maior volume de novos clientes
 - Detecção de padrões de crescimento ao longo do mês
 - Apoio a análises de sazonalidade ou impacto de campanhas
 
-
+---
 
 ## 🛠️ Tecnologias Utilizadas
 - SQL
 - Banco de dados relacional (Sample Database)
 
-
+---
 
 ## 📌 Observação Final
 Projeto desenvolvido com foco em **aprendizado e prática de SQL aplicado a problemas reais de negócio**.
-
