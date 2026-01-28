@@ -62,10 +62,12 @@ Dashboard interativo desenvolvido no Metabase com filtro dinâmico por mês.
 
 ---
 
-## 📈 Príncipais Insights
+## 📈 Principais Insights
 - Identificação de dias com maior volume de novos clientes
 - Detecção de padrões de crescimento ao longo do mês
 - Apoio a análises de sazonalidade ou impacto de campanhas
+- Possibilidade de identificar períodos com maior eficiência de aquisição
+
 
 ---
 
