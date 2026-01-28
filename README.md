@@ -58,7 +58,7 @@ ORDER BY dia;
 
 Dashboard interativo desenvolvido no Metabase com filtro dinâmico por mês.
 
-![Dashboard de Novos Clientes](images/dashboard_metabase.png)
+![Dashboard de Novos Clientes](total_novos_clientes.png)
 
 ---
 
