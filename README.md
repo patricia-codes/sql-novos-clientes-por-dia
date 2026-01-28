@@ -42,7 +42,6 @@ Esse tipo de análise pode ser utilizado para:
 5. Ordenar os resultados cronologicamente
 
 ---
-
 ## 🧾 Query SQL
 
 ```sql
@@ -50,13 +49,13 @@ SELECT
     DATE(created_at) AS dia,
     COUNT(*) AS total_novos_clientes
 FROM People
-[[ WHERE {{mes}} ]]
 GROUP BY dia
 ORDER BY dia;
 
+```
 ---
 
-## 📈 Possíveis Insights
+## 📈 Príncipais Insights
 - Identificação de dias com maior volume de novos clientes
 - Detecção de padrões de crescimento ao longo do mês
 - Apoio a análises de sazonalidade ou impacto de campanhas
